@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-API", "HR-API\HR-API.csproj", "{0D0CA725-BD55-4ED0-A5C1-DEA8BAEA66A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR-API.Tests", "HR-API.Tests\HR-API.Tests.csproj", "{19A8D450-AC68-462D-B0EA-709D011DA25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0CA725-BD55-4ED0-A5C1-DEA8BAEA66A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0CA725-BD55-4ED0-A5C1-DEA8BAEA66A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0CA725-BD55-4ED0-A5C1-DEA8BAEA66A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0CA725-BD55-4ED0-A5C1-DEA8BAEA66A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A8D450-AC68-462D-B0EA-709D011DA25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A8D450-AC68-462D-B0EA-709D011DA25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A8D450-AC68-462D-B0EA-709D011DA25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A8D450-AC68-462D-B0EA-709D011DA25A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
